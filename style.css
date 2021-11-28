@@ -1,0 +1,70 @@
+* {
+  font-family: 'IBM Plex Sans', sans-serif;;
+}
+
+.main-header {
+  background-color: #5d4954;
+  font-weight: bold;
+}
+
+.text-name {
+  color: #5d4954;
+  position: relative;
+}
+
+.section-icons {
+  text-transform: uppercase;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.section-read {
+  padding-top: 0;
+}
+
+.btn-large {
+  background-color: #5d4954;
+  border-radius: 32px;
+}
+
+.caption h3 {
+text-transform: uppercase;
+color: whitesmoke;
+}
+
+.section-client {
+  background: #5d4954;
+}
+
+.section-client h2, p {
+  text-transform: uppercase;
+  color: whitesmoke;
+}
+
+.page-footer {
+  background-color: black;
+}
+
+.product-header {
+  background: url(/img/Product_header.jpg);
+  min-height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+.market-header {
+  background: url(/img/Marketplace_header.jpg);
+  min-height: 300px;
+  background-size: cover;
+  background-position: center
+}
+.gallery-header {
+  background: url(/img/gallery_header.jpg);
+  min-height: 300px;
+  background-size: cover;
+  background-position: center
+}
+
+.section-about {
+  background: gray;
+}
+
